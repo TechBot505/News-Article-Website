@@ -40,7 +40,7 @@ hr{
     align-items: center;
     margin: 0 auto;
     background: #252525;
-    color: ##0E9AA7;
+    color: #0E9AA7;
     padding: 20px 30px;
 }
 
@@ -139,7 +139,7 @@ hr{
   padding: 4px;
 }
 .links a:hover{
-  color: ##0E9AA7;
+  color: #0E9AA7;
 }
 
 /* banner */
@@ -381,7 +381,7 @@ main a:hover{
 
 footer{
     background: #252525;
-    color: ##0E9AA7;
+    color: #0E9AA7;
     padding: 30px;
     margin-top: 30px;
 }
