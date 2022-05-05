@@ -82,10 +82,11 @@ hr{
 .nav-bar ul li a{
     color: #fff;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .nav-bar ul li a:hover{
-   color: ##0E9AA7;
+   color: #0E9AA7;
 }
 
 /* Search Container */
